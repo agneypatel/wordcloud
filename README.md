@@ -3,9 +3,9 @@ A simplified way of generating cloud of words with the power of Javascript
 
 STEPS
 
-        [Visit](https://www.agneypatel.com/wordcloud)
+        Visit https://www.agneypatel.com/wordcloud
         Enter a paragraph
-        Click Generate. Done!
+        Click generate. Done!
 
 FEATURES
 
