@@ -1,11 +1,13 @@
 # Word Cloud Generator
 A simplified way of generating cloud of words with the power of Javascript
 
+[Word Cloud Link](http://www.agneypatel.com/wordcloud)
+
 STEPS
 
-        Visit https://www.agneypatel.com/wordcloud
-        Enter a paragraph
-        Click generate. Done!
+        Open above link
+        Click generate.
+        Enter a paragraph. Done!
 
 FEATURES
 
