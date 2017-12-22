@@ -1,7 +1,7 @@
 # Word Cloud Generator
 A simplified way of generating cloud of words with the power of Javascript
 
-[Word Cloud Link](http://www.agneypatel.com/wordcloud)
+[Word Cloud Link](https://www.agneypatel.com/wordcloud)
 
 STEPS
 
