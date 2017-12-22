@@ -13,3 +13,5 @@ FEATURES
         Count word occurrence
         Dynamic and vibrant design
         Built using Highcharts
+
+![Screenshot](screenshot.png)
